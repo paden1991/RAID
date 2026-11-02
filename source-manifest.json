@@ -1,0 +1,55 @@
+{
+  "addon": "RAID",
+  "version": "0.2.3-beta",
+  "interface": 16001,
+  "files": [
+    {
+      "path": "Channels.lua",
+      "bytes": 3040,
+      "sha256": "1a2044e08cd4dccc1173aa9d59cc7df61554f478c46c06cccd55cf0c2f86903e",
+      "external": false
+    },
+    {
+      "path": "Core.lua",
+      "bytes": 5274,
+      "sha256": "dc37e9e197631500ed1365079fc1265a0a141f25778f8b81697f4cc749185ebc",
+      "external": false
+    },
+    {
+      "path": "Guilds.lua",
+      "bytes": 5789,
+      "sha256": "3f46a1e856e7cb4a34c1ae44ab349a7999c4c8441f80e83ba9e9f0c9111029b7",
+      "external": false
+    },
+    {
+      "path": "Keywords.lua",
+      "bytes": 2960,
+      "sha256": "86470e15111dfcd518c9c0ef80c65a4bd66eb4dca163896c75286c083e298eea",
+      "external": false
+    },
+    {
+      "path": "Minimap.lua",
+      "bytes": 5140,
+      "sha256": "30415ec19fd0fa1afd18244a297f987fad54f157e11d600dd51ebe206c529497",
+      "external": false
+    },
+    {
+      "path": "RAID.toc",
+      "bytes": 319,
+      "sha256": "41f01a6918bd0b97727974900fa09d8a42add305525bb12da26edc797acca424",
+      "external": false
+    },
+    {
+      "path": "Rules.lua",
+      "bytes": 2653,
+      "sha256": "859d7f13b4cb821d983b5cbb6d3787e5a697927e6c7c8d2ba80e8f92173c585f",
+      "external": false
+    },
+    {
+      "path": "UI.lua",
+      "bytes": 13764,
+      "sha256": "31b5662cf07bd3aae736ac44fff9e2de20aa235329e8c3e631f36607fe2b4594",
+      "external": false
+    }
+  ]
+}

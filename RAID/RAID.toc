@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: RAID
+## Notes: Local chat blocking by confirmed guild, keywords, and writing scripts.
+## Author: Paden
+## Version: 0.2.3-beta
+## SavedVariables: RAIDDB
+## IconTexture: Interface\Icons\INV_Shield_05
+
+Rules.lua
+Channels.lua
+Keywords.lua
+Core.lua
+Guilds.lua
+UI.lua
+Minimap.lua
